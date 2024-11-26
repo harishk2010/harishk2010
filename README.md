@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Harish!+%f0%9f%94%a5" alt="Hi there, I'm Harish!">
 </p>
 <p align="left">
- A passionate **full-stack developer** diving deep into the **MERN stack** and modern tech like **Docker**, **Kubernetes**, and **Redux Toolkit**. I love building interactive web apps, crafting scalable backends, and exploring data structures and algorithms.  
+ A passionate <b>Full-Stack Developer</b> diving deep into the <b>MERN stack</b> and modern tech like <b>Docker</b>, <b>Kubernetes</b>, and <b>Redux Toolkit</b>. I love building interactive web apps, crafting scalable backends, and exploring data structures and algorithms.  
 
-🔍 Always curious and ready for new challenges, I’m honing skills in **JavaScript**, **Node.js**, **React**, and **MongoDB**, while blending creativity with tech through tools like **Blender** and **Photoshop**.  
+🔍 Always curious and ready for new challenges, I’m honing skills in <b>JavaScript</b>, <b>Node.js</b>, <b>React</b>, and <b>MongoDB</b>, while blending creativity with tech through tools like <b>Blender</b> and <b>Photoshop<b/>.  
 
 Let’s connect and create something amazing! 🚀  
 </p>
@@ -53,9 +53,13 @@ Let’s connect and create something amazing! 🚀
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
             <img src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000" alt="solidworks" width="40" height="40" />
    </p>
+   
+   <p align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=harishk2010&show_icons=true&hide_border=true" height="195em" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishk2010&layout=compact&langs_count=8" height="195em" />
+  </p>
 
-   ![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=harishk2010&show_icons=true&hide_border=true)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishk2010&layout=compact&langs_count=8"/>
+
 
 
 ## Connect with Me
