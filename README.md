@@ -1,4 +1,16 @@
 ## Hi there 👋
+
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Har+ish!+%F0%9F%91%8B" alt="Hi there, I'm Harish!">
+</p>
+
+
+
+  <div class="container">
+        <h6>GitHub Profile Visits</h6>
+        <img src="https://komarev.com/ghpvc/?username=harishk2010&color=blue" alt="Profile Views">
+  </div>
 - 📫 How to reach me: [harish200126@gmail.com](mailto:harish200126@gmail.com)
 
    <h3 align="left">Languages and Tools :</h3>
