@@ -56,7 +56,7 @@ Let’s connect and create something amazing! 🚀
    
    <p align="left">
       <a href="https://github.com/harishk2010/github-readme-stats">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harishk2010" />
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harishk2010&layout=compact&langs_count=8&card_width=320" />
       </a>
       <a href="https://github.com/harishk2010/convoychat">
           <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishk2010&layout=compact&langs_count=8&card_width=320" />
@@ -64,11 +64,11 @@ Let’s connect and create something amazing! 🚀
   </p>
    <p align="left">
       <a href="https://github.com/harishk2010/React-Basics-To-Advanced/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harishk2010&repo=React-Basics-To-Advanced" />
-</a>
-<a href="https://github.com/harishk2010/NewConsoleHaven">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harishk2010&repo=NewConsoleHaven" />
-</a>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harishk2010&repo=React-Basics-To-Advanced" />
+      </a>
+      <a href="https://github.com/harishk2010/NewConsoleHaven">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harishk2010&repo=NewConsoleHaven" />
+      </a>
   </p>
 
 
